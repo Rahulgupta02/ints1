@@ -1,0 +1,43 @@
+.fa 
+{
+   
+    font-size: 23px;
+}
+p{
+    text-align: center;
+    font-size: small;
+    margin-top: 12px;
+}
+.demo
+{
+    border: 2px solid grey;
+    display: block;
+}
+#image2
+{
+    text-align: center;
+    margin-top: 10px;
+    width: 345px;
+    height: 345px;
+}
+.card
+{
+    justify-content: center;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-direction: column;
+    height: 100vh;
+}
+
+#display_image{
+    width: 375px;
+    height: 211px;
+    border: 1px solid black;
+    background-position: center;
+    background-size:cover
+}
